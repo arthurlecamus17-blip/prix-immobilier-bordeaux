@@ -1,1 +1,6 @@
-
+voila
+ipywidgets
+pandas
+numpy
+scikit-learn
+pyproj
